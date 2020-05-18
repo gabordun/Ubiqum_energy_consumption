@@ -13,6 +13,8 @@ The main findings are:
 The results could be used for making plans for potential new appartments' electricity system, or for benchmarking,
 to provide operational framework for a warning system.
 
-Language : R 
-Database: load from SQL with MySQL 
+Language : R
+
+Database: load from SQL with MySQL
+
 Packages for cluster analyses: cluster, mclust, NbClust
